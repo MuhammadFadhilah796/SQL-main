@@ -1,5 +1,5 @@
--- nama = lalu akbar huseyn
--- nim  = 24241065
+-- nama = Muhammad Fadhilah 
+-- nim  = 24241046
 -- kls  = B
 -- modul = 2
 
